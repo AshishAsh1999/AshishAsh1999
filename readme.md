@@ -50,7 +50,3 @@ Travel: Interested in exploring new places and cultures
 Contact
 Email: ashishusmanmdk@gmail.com
 LinkedIn: https://www.linkedin.com/in/ashish-mohamed-usman-5a0a851a5
-
-Email: ashishusmanmdk@gmail.com
-
-LinkedIn: linkedin.com/in/ashish-mohamed-usman-5a0a851a5
