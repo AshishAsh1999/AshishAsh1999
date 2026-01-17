@@ -1,52 +1,56 @@
-About Me:
+About Me
 
-Ashish Mohamed Usman
+I am a data driven professional with nearly three years of experience in SQL based analytics, dashboarding, and automated reporting. I specialise in transforming raw, complex datasets into clear, actionable insights that support data informed decision making.
 
-Data Analyst | Data Scientist in the making
+I recently completed an MSc in Data and Computational Science from University College Dublin. My professional background includes hands on experience with SQL development, Tableau dashboards, data quality validation, and workflow automation within a SaaS environment.
 
-MSc Data & Computational Science, University College Dublin
+At PowerSchool, I worked on K-12 educational analytics solutions used by school administrators and educators, where I designed BI dashboards, streamlined reporting pipelines, and improved data accuracy through structured validation and analysis.
 
-I am a data-driven professional with 2.8 years of experience in SQL development, Tableau dashboard creation, and data analysis. My expertise lies in transforming raw data into clear, actionable insights that enable businesses to make informed decisions. I have a strong background in database querying, data visualization, statistical analysis, and workflow automation.
+I am comfortable working across SQL, Python, R, Tableau, Power BI, and Excel, and I enjoy bridging the gap between technical data work and business understanding.
 
-What I Do:
+What I Do
 
 Build SQL queries for data extraction, transformation, and reporting
 
-Create interactive Tableau dashboards for real-time insights
+Design interactive Tableau dashboards to track KPIs and performance metrics
 
-Automate data workflows to improve efficiency and reduce manual effort
+Automate data workflows to reduce manual effort and improve efficiency
 
-Perform statistical analysis using Python, R, and Excel
+Perform statistical and exploratory analysis using Python and R
 
-Develop visualizations that present complex data trends in an understandable way
+Communicate insights through clear visualisations and summaries
 
-Professional Experience:
+Experience
 
-Associate Application Specialist, PowerSchool India Pvt Ltd
+Associate Data and Reporting Analyst (Application Support)
+PowerSchool India Pvt Ltd
 
-Delivered K-12 educational analytics solutions used by school administrators and educators
+Delivered analytics solutions supporting K-12 education platforms
 
-Designed and developed BI dashboards to track performance metrics
+Designed and maintained BI dashboards used by administrators and stakeholders
 
-Streamlined data pipelines for faster, more accurate reporting
+Streamlined data pipelines to improve reporting speed and accuracy
 
-Ensured high data quality through rigorous validation and troubleshooting
+Ensured high data quality through validation, investigation, and troubleshooting
 
-Education:
+Education
 
-MSc in Data & Computational Science, University College Dublin
+MSc in Data and Computational Science, University College Dublin
 
-B.E. in Computer Science, Dr Ambedkar Institute of Technology
+Bachelor of Engineering in Computer Science, Dr Ambedkar Institute of Technology
 
-Interests:
+Interests
 
-Chess: Winner at PUC and 10th-grade level; 3rd place in inter-school tournament; participant in South Zone Tournament recognized by the Government of India
+Chess: District and inter school level competitive player, including South Zone tournament participation recognised by the Government of India
 
-Cricket: Active participant in school-level tournaments
+Cricket: Active participant in school level tournaments
 
-Travelling: Enthusiastic about exploring new places and cultures
+Travel: Interested in exploring new places and cultures
 
-Contact:
+Contact
+Email: ashishusmanmdk@gmail.com
+LinkedIn: https://www.linkedin.com/in/ashish-mohamed-usman-5a0a851a5
+
 Email: ashishusmanmdk@gmail.com
 
-LinkedIn: www.linkedin.com/in/ashish-mohamed-usman-5a0a851a5
+LinkedIn: linkedin.com/in/ashish-mohamed-usman-5a0a851a5
